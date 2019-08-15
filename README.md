@@ -1,0 +1,2 @@
+# fairfaucet
+Yes
